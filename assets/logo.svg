@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="primaryGrad" x1="10" y1="10" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="20" y1="20" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="130%" height="130%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#4f46e5" flood-opacity="0.25" />
+    </filter>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="#0f172a" />
+  <g filter="url(#glow)">
+    <path d="M60 22L92 88H74L60 58L46 88H28L60 22Z" fill="url(#primaryGrad)" />
+    <path d="M42 74L60 38L78 74H65L60 63L55 74H42Z" fill="#ffffff" opacity="0.9" />
+    <circle cx="60" cy="80" r="4.5" fill="#38bdf8" />
+  </g>
+</svg>
