@@ -50,15 +50,15 @@ ayadigital/
 ```bash
 cd /home/abx/abx/go/src/github.com/Abuzar-JS/ayadigital
 
-# Add remote (create the repository 'ayadigital' on GitHub under your account)
-git remote add origin git@github.com-abuzar:Abuzar-JS/ayadigital.git
+# Add remote
+git remote add origin git@github.com-abuzar:Abuzar-JS/AYADigital-llc.git
 
 # Push main branch
 git push -u origin main
 ```
 
 ### 2. Enable GitHub Pages
-1. Go to your repository on GitHub: `https://github.com/Abuzar-JS/ayadigital`.
+1. Go to your repository on GitHub: `https://github.com/Abuzar-JS/AYADigital-llc`.
 2. Click **Settings** &rarr; **Pages** (under Code and automation).
 3. Under **Build and deployment**:
    - **Source**: Select `Deploy from a branch`.
@@ -66,7 +66,7 @@ git push -u origin main
    - Click **Save**.
 4. GitHub Pages will build and deploy the site in ~30 seconds at:
    ```text
-   https://Abuzar-JS.github.io/ayadigital/
+   https://Abuzar-JS.github.io/AYADigital-llc/
    ```
 
 ### 3. Custom Domain Setup (Optional)
