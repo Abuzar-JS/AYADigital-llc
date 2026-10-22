@@ -109,6 +109,16 @@ For app submission of **Arrived (وصل)** (`com.arrived.app`):
 | **Support / Marketing URL** | `/index.html` |
 | **Official Compliance Email** | `tradea12027@gmail.com` |
 
+For app submission of **OffersGlobal AI (عروض جلوبال)** (`com.offersglobal.app`):
+
+| Store Field | Public Live URL Path |
+| :--- | :--- |
+| **Privacy Policy URL** | `/offersglobal/index.html` (or `/offersglobal/`) |
+| **Terms of Service URL** | `/offersglobal/terms.html` |
+| **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/offersglobal/delete-account.html` |
+| **Support / Marketing URL** | `/index.html` (or `https://offersglobalai-com.lovable.app`) |
+| **Official Compliance Email** | `tradea12027@gmail.com` |
+
 ---
 
 ## ➕ How to Add Future Apps
