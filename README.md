@@ -95,7 +95,7 @@ For app submission of **spaceO (سبيس أو)** (`com.spaceo.app`):
 
 | Store Field | Public Live URL Path |
 | :--- | :--- |
-| **Privacy Policy URL** | `/spaceo-privacy.html` (or `/spaceo/`) |
+| **Privacy Policy URL** | `/spaceo-privacy-policy.html` (or `/spaceo/privacy-policy.html`) |
 | **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/spaceo-delete-account.html` |
 | **Support / Marketing URL** | `/index.html` (or `https://spaceo.space/`) |
 | **Official Compliance Email** | `tradea12027@gmail.com` |
@@ -104,7 +104,7 @@ For app submission of **Arrived (وصل)** (`com.arrived.app`):
 
 | Store Field | Public Live URL Path |
 | :--- | :--- |
-| **Privacy Policy URL** | `/arrived-privacy.html` (or `/arrived/`) |
+| **Privacy Policy URL** | `/arrived-privacy-policy.html` (or `/arrived/privacy-policy.html`) |
 | **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/arrived-delete-account.html` |
 | **Support / Marketing URL** | `/index.html` |
 | **Official Compliance Email** | `tradea12027@gmail.com` |
@@ -113,7 +113,7 @@ For app submission of **OffersGlobal AI (عروض جلوبال)** (`com.offersgl
 
 | Store Field | Public Live URL Path |
 | :--- | :--- |
-| **Privacy Policy URL** | `/offersglobal/index.html` (or `/offersglobal/`) |
+| **Privacy Policy URL** | `/offersglobal/privacy-policy.html` (or `/offersglobal-privacy-policy.html`) |
 | **Terms of Service URL** | `/offersglobal/terms.html` |
 | **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/offersglobal/delete-account.html` |
 | **Support / Marketing URL** | `/index.html` (or `https://offersglobalai-com.lovable.app`) |
@@ -123,7 +123,7 @@ For app submission of **5M Real Estate (خمسة ملايين للعقارات)*
 
 | Store Field | Public Live URL Path |
 | :--- | :--- |
-| **Privacy Policy URL** | `/5m-realestate/index.html` (or `/5m-realestate/`) |
+| **Privacy Policy URL** | `/5m-realestate/privacy-policy.html` (or `/5m-realestate-privacy-policy.html`) |
 | **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/5m-realestate/delete-account.html` |
 | **Support / Marketing URL** | `/index.html` |
 | **Official Compliance Email** | `tradea12027@gmail.com` |
