@@ -91,6 +91,15 @@ For app submission of **Hashyi** (`com.hashyi.app`):
 | **Support / Marketing URL** | `/index.html` |
 | **Official Compliance Email** | `tradea12027@gmail.com` |
 
+For app submission of **spaceO (سبيس أو)** (`com.spaceo.app`):
+
+| Store Field | Public Live URL Path |
+| :--- | :--- |
+| **Privacy Policy URL** | `/spaceo-privacy.html` (or `/spaceo/`) |
+| **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/spaceo-delete-account.html` |
+| **Support / Marketing URL** | `/index.html` (or `https://spaceo.space/`) |
+| **Official Compliance Email** | `tradea12027@gmail.com` |
+
 ---
 
 ## ➕ How to Add Future Apps
