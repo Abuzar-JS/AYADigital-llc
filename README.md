@@ -119,6 +119,15 @@ For app submission of **OffersGlobal AI (عروض جلوبال)** (`com.offersgl
 | **Support / Marketing URL** | `/index.html` (or `https://offersglobalai-com.lovable.app`) |
 | **Official Compliance Email** | `tradea12027@gmail.com` |
 
+For app submission of **5M Real Estate (خمسة ملايين للعقارات)** (`com.fivem.realestate`):
+
+| Store Field | Public Live URL Path |
+| :--- | :--- |
+| **Privacy Policy URL** | `/5m-realestate/index.html` (or `/5m-realestate/`) |
+| **Account Deletion URL (Apple 5.1.1(v) & Play Safety)** | `/5m-realestate/delete-account.html` |
+| **Support / Marketing URL** | `/index.html` |
+| **Official Compliance Email** | `tradea12027@gmail.com` |
+
 ---
 
 ## ➕ How to Add Future Apps
